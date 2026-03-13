@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python scripts/validate_notebooks.py --staged
